@@ -35,7 +35,6 @@ The dashboard was built using **Power BI** and is designed to support data-drive
 ## 📁 Files in this Repository
 - `Vending_Machine_Consumption_Analysis.pbix` — Interactive Power BI report
 - `Vending_Machine_Consumption_Analysis.pdf` — Static export for quick review
-- `screenshots/` — Dashboard preview images
 
 ---
 
